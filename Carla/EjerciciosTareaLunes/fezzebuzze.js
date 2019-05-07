@@ -6,7 +6,7 @@ function contar() {
 	for(var i=0; i<=10; i++){ //comienzan las funciones para la var i
 		console.log("numero:", i);
 
-		 if (numero % 2 ==0) {
+		 if (i % 2 ==0) {
      	console.log("parbuzz") 
      }
      else {
